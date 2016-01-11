@@ -8,7 +8,7 @@ This is an example to show different parts of the Git repo and various commands 
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Like stated above.
 
 ## Deployment
 
