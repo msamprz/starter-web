@@ -15,3 +15,7 @@ Like stated above. Sample website with plenty of files for demos.
 This is a simple web project, deployment is irrelevant.
 
 ## How to Contribute
+
+##Copyright
+
+2016
